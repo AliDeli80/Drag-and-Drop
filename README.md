@@ -7,13 +7,10 @@ Drag and Drop
 ## Description
 
 This project demonstrates a simple implementation of drag-and-drop functionality in JavaScript.
-<br>
 
 ## Preview
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Drag-and-Drop/blob/master/html/index.html
-
-
 
 ## Getting Started
 
@@ -27,7 +24,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Drag-and-Drop/blob/m
 
 - Drag: Click and hold on an element to select it.
 - Drop: Release the selected element onto a target area.
-
 
 ## Features
 

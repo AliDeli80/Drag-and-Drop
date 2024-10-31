@@ -1,10 +1,10 @@
-## Project Title: 
+## Project Title
 
 Drag and Drop
 
 <br>
 
-## Description:
+## Description
 
 This project demonstrates a simple implementation of drag-and-drop functionality in JavaScript.
 <br>
@@ -15,7 +15,7 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Drag-and-Drop/blob/m
 
 <br>
 
-## Features:
+## Features
 
 - Simple Drag and Drop: Between two areas
 - Nice Animations: For element transitions

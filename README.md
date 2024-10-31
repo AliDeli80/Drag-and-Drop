@@ -13,12 +13,6 @@ This project demonstrates a simple implementation of drag-and-drop functionality
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Drag-and-Drop/blob/master/html/index.html
 
-<br>
-
-## Features
-
-- Simple Drag and Drop: Between two areas
-- Nice Animations: For element transitions
 
 
 ## Getting Started
@@ -35,6 +29,10 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Drag-and-Drop/blob/m
 - Drop: Release the selected element onto a target area.
 
 
+## Features
+
+- Simple Drag and Drop: Between two areas
+- Nice Animations: For element transitions
 
 ## Contributing
 1.  Fork the repository.
